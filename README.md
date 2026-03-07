@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/washonrails" target="_blank">
+  <a href="https://github.com/soaress33/soaress33/blob/main/README.md" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
 <a href="https://www.instagram.com/washonrails/" target="_blank">
