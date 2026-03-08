@@ -1,6 +1,9 @@
-<div align="center">
+<div>
+  <img align="right" height="120" width="120"
+  src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif"/>
+</div>
 
-<img height="120" src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif"/>
+<div align="center">
 
 <p>
 Olá, eu sou o Júnior, outro programador.
