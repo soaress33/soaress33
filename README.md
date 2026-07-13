@@ -30,11 +30,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=soaress33&show_icons=true&theme=radical&hide_border=true"
-  />
-</p>
+
 
 <p align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
