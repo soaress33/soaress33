@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=soaress33&theme=monokai&hide_border=true&background=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soaress33&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
