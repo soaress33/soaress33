@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  Olá, eu sou <strong>Júnior Soares</strong> 👋
+  Olá, eu sou <strong>Júnior Soares</strong> 
 </h2>
 
 <p align="center">
