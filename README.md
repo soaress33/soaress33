@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" width="120" />
 </p>
 
-<p align="center">
+<p align="center text-2xl">
   Olá, eu sou o Júnior, outro programador.
 </p>
 
