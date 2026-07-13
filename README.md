@@ -31,7 +31,10 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soaress33&show_icons=true&theme=radical&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=soaress33&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
 </p>
 
 <p align="center">
