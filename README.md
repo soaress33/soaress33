@@ -4,12 +4,12 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" width="120" />
-</p>
+<h2 align="center">
+  Olá, eu sou <strong>Júnior Soares</strong> 👋
+</h2>
 
-<p align="center text-2xl">
-  Olá, eu sou o Júnior, outro programador.
+<p align="center">
+  Desenvolvedor em formação • Técnico em Informática • ADS
 </p>
 
 <p align="center">
