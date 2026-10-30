@@ -1,43 +1,22 @@
-## 🐍 Contribution Snake
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0ADE00&height=180&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ADE00&size=25&center=true&font=Roboto&vCenter=true&width=1000&lines=Hello+user;I+am+Danilo+from+OsJanelas,+but+u+can+call+me+Danoni!;Im+failed+to+login+in+OsJanelas+profile+with+2FA;But+im+back)](https://git.io/typing-svg)
+
+### MAIN TOOLS
+[![my skills](https://skillicons.dev/icons?i=windows,vscode,visualstudio,github,python,powershell,bash,electron)](https://skillicons.dev)
+
+# Hi, im back👋
+
+Im am a brazilian programer
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Danoni631&show_icons=true&count_private=true&hide_border=true&title_color=0ADE00&icon_color=0ADE00&text_color=c9d1d9&bg_color=0d1117" /> 
+</div>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Danoni631&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsJanelas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<h2 align="center">
-  Olá, eu sou <strong>Júnior Soares</strong> 
-</h2>
-
-<p align="center">
-  Desenvolvedor em formação • Técnico em Informática • ADS
-</p>
-
-<p align="center">
-  <a href="https://github.com/soaress33">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/soaress44/">
-    <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#">
-    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48" />
-  </a>
-</p>
-
-
-
-<p align="center">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0ADE00&fontSize=40&fontAlignY=45&animation=twinkling&section=footer"/> 
