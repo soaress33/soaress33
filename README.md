@@ -1,8 +1,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0ADE00&height=180&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ADE00&size=25&center=true&font=Roboto&vCenter=true&width=1000&lines=Ola,+seja+bem-vindo!;Meu+nome+e+Soares;Sou+um+desenvolvedor+brasileiro;Estudante+de+ADS+e+Tecnico+em+Informatica)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0ADE00&size=25&center=true&font=Roboto&vCenter=true&width=1000&lines=Hello,+welcome+to+my+GitHub!;My+name+is+Soares;I'm+a+Brazilian+developer;I'm+studying+Software+Development)](https://git.io/typing-svg)
 ###  FERRAMENTAS E TECNOLOGIAS
 
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,html,css,js,tailwind,nodejs,sqlite,nextjs,react,git,github)](https://skillicons.dev)
