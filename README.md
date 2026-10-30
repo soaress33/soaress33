@@ -7,15 +7,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=windows,vscode,html,css,js,tailwind,nodejs,sqlite,nextjs,react,git,github)](https://skillicons.dev)
 
-# Olá, eu sou o Júnior Soares! 👋
+# Olá, eu sou o Júnior Soares! 
 
-💻 Desenvolvedor brasileiro em formação.
+ Desenvolvedor brasileiro em formação.
 
-🎓 Estudante de Técnico em Informática e Análise e Desenvolvimento de Sistemas (ADS).
+ Estudante de Técnico em Informática e Análise e Desenvolvimento de Sistemas (ADS).
 
-🚀 Buscando evoluir constantemente na área de tecnologia e desenvolvimento de software.
+ Buscando evoluir constantemente na área de tecnologia e desenvolvimento de software.
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soaress33&show_icons=true&count_private=true&hide_border=true&title_color=0ADE00&icon_color=0ADE00&text_color=c9d1d9&bg_color=0d1117" />
